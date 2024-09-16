@@ -1,11 +1,2 @@
-course =
-'''
-Hello Eve,
-
-This our first email
-
-thank you.
-from the aliens.
-
-'''
+course = "Python for beginners"
 print(course)
